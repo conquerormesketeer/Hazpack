@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Sur-vivor/CatUserbot/",
+  "repository": "https://github.com/conquerormesketeer/Hazardianzcat/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -61,8 +61,8 @@
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "Use either goodcat or surcat .if you need custom deploy then type your git repo link",
-      "value": "surcat",
+      "description": "Use either goodcat or Hazardianzcat .if you need custom deploy then type your git repo link",
+      "value": "Hazardianzcat",
       "required": false
     }
   },
